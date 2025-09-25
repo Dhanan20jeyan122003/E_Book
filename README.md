@@ -111,6 +111,6 @@ If you want, I can also **make a shorter, GitHub-ready version with badges and p
 **Developer**: Dhananjeyan M  
 **GitHub**: [https://github.com/Dhanan20jeyan122003](https://github.com/Dhanan20jeyan122003)  
 **LinkedIn**: [https://www.linkedin.com/in/dhananjeyan-m](https://www.linkedin.com/in/dhananjeyan-m)  
-**Email**: dhananjeyan@example.com  
+**Email**: kmayan1967@gmail.com
 
 Feel free to reach out for questions, feedback, or collaboration!
