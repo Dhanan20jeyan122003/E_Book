@@ -1,6 +1,4 @@
-# E_Book Servlet Project
-
-![E_Book Banner](banner-placeholder.png)  
+# E_Book Servlet Project  
 
 A **Java Servlet and JSP web application** for managing e-books. Users can register, login, add new books, view recent books, and manage book information. This project uses **Servlets, JSP, MySQL**, and is deployable on **Apache Tomcat**.  
 
